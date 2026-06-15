@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/nUB0EPEPFP/0"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ByRe2wiwx0/0"))()
 
 script_key = "PASTE_KEY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/loader.lua"))()
