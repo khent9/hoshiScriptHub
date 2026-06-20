@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ByRe2wiwx0/0"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/4ZPpFux25sHhgtNv/raw"))()
 
 script_key = "PASTE_KEY"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fluxyyy333/HoshiOnTop/main/loader.lua"))()
